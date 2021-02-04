@@ -1,5 +1,5 @@
 public class FirstClass {
     public FirstClass() {
-        system.debug("qwerty");
+        system.debug("asd");
     }
 }
